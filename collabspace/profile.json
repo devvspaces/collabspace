@@ -1,0 +1,30 @@
+{
+  "id": { "value": 1 },
+  "name": { "firstName": "John", "lastName": "Doe" },
+  "email": { "address": "johndoe@example.com" },
+  "bio": { "text": "I am a software engineer with 5 years of experience." },
+  "collaboratedProjects": [
+    {
+      "name": "Project A",
+      "description": "This is a project that I collaborated on with other developers.",
+      "url": "https://github.com/johndoe/project-a"
+    },
+    {
+      "name": "Project B",
+      "description": "This is another project that I collaborated on.",
+      "url": "https://github.com/johndoe/project-b"
+    }
+  ],
+  "createdProjects": [
+    {
+      "name": "Personal Project 1",
+      "description": "This is a personal project that I created.",
+      "url": "https://github.com/johndoe/personal-project-1"
+    },
+    {
+      "name": "Personal Project 2",
+      "description": "This is another personal project that I created.",
+      "url": "https://github.com/johndoe/personal-project-2"
+    }
+  ]
+}
